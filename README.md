@@ -6,10 +6,11 @@ Deep learning-based precise prediction and early detection of temporal lobe inju
 This repository is for our paper '[Deep learning-based precise prediction and early detection of temporal lobe injury for nasopharyngeal carcinoma](http://xxxxx.pdf)'.
 
 ## Usage
+The code is still being sorted out, we will upload the final code as soon as possible.
 
-### Inference:
+## model weight
+model'[https://pan.baidu.com/s/1XcXKjZYJ-M8Sr9pfdZ9-sw]' password: ghfi
 
-Run python inference.py
 
 ## Citation
 
