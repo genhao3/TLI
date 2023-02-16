@@ -9,7 +9,7 @@ This repository is for our paper '[Deep learning-based precise prediction and ea
 The code is still being sorted out, we will upload the final code as soon as possible.
 
 ## model weight
-model'[https://pan.baidu.com/s/1XcXKjZYJ-M8Sr9pfdZ9-sw]' password: ghfi
+[model](https://pan.baidu.com/s/1XcXKjZYJ-M8Sr9pfdZ9-sw) password: ghfi
 
 
 ## Citation
